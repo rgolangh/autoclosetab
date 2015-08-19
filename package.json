@@ -1,0 +1,13 @@
+{
+  "title": "self destructing tabs",
+  "name": "selfdestructivetab",
+  "version": "0.0.1",
+  "description": "Opens a tab with a timeout",
+  "main": "index.js",
+  "author": "Roy Golan royg21@gmail.com",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
